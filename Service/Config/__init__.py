@@ -1,0 +1,1 @@
+from .Config import MEMORIA, PROMPT_SISTEMA, DOCUMENTOS
